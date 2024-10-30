@@ -1,0 +1,7 @@
+.bftgr_recaptcha {
+	margin-bottom: 15px;
+}
+
+body.login form#loginform {
+	min-width:300px;
+}

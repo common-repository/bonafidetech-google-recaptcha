@@ -1,0 +1,48 @@
+.bftgr-wrap h1 {
+	margin-bottom:15px;
+}
+
+.bftgr-wrap p.description {
+	font-size:0.9em;
+}
+
+.bftgr-wrap .ui-widget-content {
+	border:none;
+	background-color:transparent;
+	padding:0;
+}
+
+.bftgr-wrap .ui-tabs .ui-tabs-nav {
+	border:1px #aaaaaa solid;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-radius:none;
+	background:transparent;
+	padding:0;
+}
+
+.bftgr-wrap .ui-tabs-nav a {
+	font-weight:500;
+	padding:10px 15px;
+}
+
+.bftgr-wrap .ui-tabs-nav a:focus{
+	box-shadow: 0 0 transparent;
+}
+
+.bftgr-wrap .bftgr-tabs {
+	background: #fff;
+	padding:1em 1.4em;
+	border:1px #aaaaaa solid;
+	border-top:none;
+}
+
+.bftgr-wrap .ui-tabs .ui-tabs-nav li {
+	background:#fff;
+}
+
+.bftgr-wrap p.submit {
+	margin:15px 0 0;
+	padding:0;
+}
